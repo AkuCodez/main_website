@@ -1,0 +1,39 @@
+.pic {
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+.intro {
+    font-family: 'VT323', monospace;
+}
+
+.projects-btn {
+    margin-left: 800px;
+}
+.s1 {
+    background-color: #EFE1D1;
+    color:#331D2C;
+}
+.section1 {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+.about-me {
+    background: linear-gradient(to right, rgba(240,147,251,0.45), rgba(245,87,108,0.45));
+    font-family: 'VT323', monospace}
+    
+.cont {
+    border: 5px solid black;
+    background-color: #D7BBF5;
+}
+    
+hr {
+    border: 2px solid black;
+}
+#avatar {
+    height: 150px;
+}
+
+.at5 {
+    color: white;
+}
